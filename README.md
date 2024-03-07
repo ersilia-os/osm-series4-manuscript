@@ -55,3 +55,6 @@ pip install git+https://github.com/ersilia-os/stylia.git
 
 ## Usage
 
+In the `notebooks` folder, there are two Juypter Notebooks that are used to produce the display items of the manuscript.
+* `ChemicalSpaceExploration.ipynb` is used for the main Figure 1.
+* `CompetitionBenchmark.ipynb` is used for the supplementary Figure S1.
