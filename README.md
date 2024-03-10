@@ -50,6 +50,7 @@ Install other necessary Python libraries.
 ```bash
 pip install pandas
 pip install umap-learn
+pip install statsmodels
 pip install git+https://github.com/ersilia-os/stylia.git
 ```
 
